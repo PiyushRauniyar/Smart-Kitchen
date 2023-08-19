@@ -1,0 +1,83 @@
+
+nav{
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+
+
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #DDF7E3; /* or you can use a named color like "lightgray" */
+    
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    color: #333;
+  }
+  h2{
+    color: white;
+    font-family: "Montserrat";
+    font-weight: 800;
+    font-size: 4rem;
+  }
+  
+  h3 {
+    color: white;
+    font-family: "Montserrat";
+    font-size: 1.5em;
+    margin-top: 10px;
+    align-self: right;
+    margin-bottom: 20px;
+    color: #ea2525;
+  }
+
+  
+
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #686363;
+    margin-bottom: 50px;
+  }
+  
+  .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .graph {
+    width: 400px;
+    height: 300px;
+    margin: 50px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 0px;
+    box-shadow: 2px 2px 2px rgba(249, 247, 247, 0.1);
+  }
+
+  .row{
+    margin-top: 40px;
+  }
+
+  .footer{
+    min-height: 70px;
+  }
+  
